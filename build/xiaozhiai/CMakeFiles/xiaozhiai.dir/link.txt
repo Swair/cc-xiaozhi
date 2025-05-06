@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -g -Wall -fPIC -std=c++17 CMakeFiles/xiaozhiai.dir/xiaozhiai.cc.o -o xiaozhiai  ../cill/libcill.a /usr/lib/x86_64-linux-gnu/libcurl.so /usr/lib/x86_64-linux-gnu/libssl.so /usr/lib/x86_64-linux-gnu/libcrypto.so -lm -lrt -ldl -lopus -lasound -lwebsockets -lssl 

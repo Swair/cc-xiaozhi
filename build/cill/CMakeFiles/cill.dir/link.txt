@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcill.a CMakeFiles/cill.dir/filestream/src/FileStream.cc.o CMakeFiles/cill.dir/http/src/HttpClient.cc.o
+/usr/bin/ranlib libcill.a
