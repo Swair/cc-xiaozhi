@@ -1,2 +1,0 @@
-/usr/bin/ar qc libcill.a CMakeFiles/cill.dir/encode/md5/src/md5.cc.o CMakeFiles/cill.dir/exception/src/Exception.cc.o CMakeFiles/cill.dir/filestream/src/FileStream.cc.o CMakeFiles/cill.dir/http/src/HttpClient.cc.o CMakeFiles/cill.dir/linker/study_case/main.cc.o CMakeFiles/cill.dir/log/src/Log.cc.o CMakeFiles/cill.dir/netools/src/NetTool.cc.o CMakeFiles/cill.dir/poll/src/Gateway.cc.o CMakeFiles/cill.dir/timer/src/TimerStamp.cc.o CMakeFiles/cill.dir/utils/src/Utils.cc.o CMakeFiles/cill.dir/linker/study_case/msgqueue.c.o
-/usr/bin/ranlib libcill.a
